@@ -1,8 +1,12 @@
-#Coral Bleaching Paper, Gantt chart project activity
+#//////////////////////////////////////////////////
+#Title: Coral Bleaching Paper, Gantt chart project activity
 #Author: c.morgans@uq.edu.au
-#Updated: 19032025
+#Created 10th October 2024
+#Updated: 19th March 2025
+#//////////////////////////////////////////////////
 
-Library
+#Install packages
+
 require("tidyverse")
 require("ggplot2")
 require("dplyr")
